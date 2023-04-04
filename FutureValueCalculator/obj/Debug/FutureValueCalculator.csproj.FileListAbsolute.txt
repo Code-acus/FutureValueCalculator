@@ -8,3 +8,4 @@ C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureVa
 C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.csproj.CoreCompileInputs.cache
 C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.exe
 C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.pdb
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.Form1.resources
