@@ -1,0 +1,10 @@
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.exe.config
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.exe
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.pdb
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.csproj.AssemblyReference.cache
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.Properties.Resources.resources
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.csproj.GenerateResource.cache
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.csproj.CoreCompileInputs.cache
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.exe
+C:\Development\C#\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.pdb
